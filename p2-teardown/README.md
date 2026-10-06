@@ -18,6 +18,9 @@ Name every recognizable element and measure it. "Spur pinion, 11 teeth, module
 about 0.8" beats "gear". Photograph each element and tag it. Bag fasteners by
 subsystem and photograph the bags.
 
+[Team 5 Machine Element Inventory --- Teardown Project Part 2.xlsx](https://github.com/user-attachments/files/33129540/Team.5.Machine.Element.Inventory.---.Teardown.Project.Part.2.xlsx)
+
+
 ## Teardown video (4 points)
 
 **Required.** It shows the documentation standard being followed: each subsystem
