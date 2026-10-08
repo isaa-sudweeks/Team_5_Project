@@ -14,3 +14,6 @@ Figure 4: slider back.
 
 <img width="4000" height="3000" alt="PXL_20261008_171856999" src="https://github.com/user-attachments/assets/76cc2cde-01c6-4f6b-a823-180d48cb678c" />
 Figure 5: barrell tip.
+
+<img width="4000" height="3000" alt="PXL_20261008_171908778 MACRO_FOCUS" src="https://github.com/user-attachments/assets/8cd7721c-e5cc-41a5-90a2-1c7a65e2c435" />
+Figure 6: outer case fastener.
