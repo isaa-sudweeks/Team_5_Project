@@ -1,6 +1,6 @@
 | Element | Subsystem | Measurement | Image |
 | --- | --- | --- | --- |
-| Outer Case Back | Case | 11.5 inches | --- |
+| Outer Case Back | Case | 11.5 inches | https://github.com/user-attachments/assets/3033887c-09fe-4bad-a4ec-759416dac280 |
 | Outer Case Front | Case | 11.5 inches | --- |
 | Slider Front | Case | 5 inches | --- |
 | Slider Back | Case | 5 inches | --- |
