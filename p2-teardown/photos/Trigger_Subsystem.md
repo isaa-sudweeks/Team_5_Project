@@ -13,7 +13,7 @@ Figure 5: Rotator shaft
 <img width="3072" height="4096" alt="IMG_20261008_112105" src="https://github.com/user-attachments/assets/8eb466d5-69ff-4f29-9028-005137092821" />
 Figure 6: Intermediate locker spring
 <img width="3072" height="4096" alt="IMG_20261008_112056" src="https://github.com/user-attachments/assets/7800d8d9-5244-4acc-b575-74315fded30e" />
-Figure 7: Trigger compression spring
+Figure 7: Compression spring
 <img width="3072" height="4096" alt="IMG_20261008_112047" src="https://github.com/user-attachments/assets/04141bd4-e12b-4d77-a8df-5a92c6e62c9d" />
 Figure 8: Rotating locker
 <img width="3072" height="4096" alt="IMG_20261008_111927" src="https://github.com/user-attachments/assets/5cb9fbfb-bda5-4377-b561-a66ec343ea58" />
@@ -23,7 +23,7 @@ Figure 10: Barrel release
 <img width="3072" height="4096" alt="IMG_20261008_111912" src="https://github.com/user-attachments/assets/936735d0-ec41-4654-91f9-c1d293adb82f" />
 Figure 11: Rotator bracket
 <img width="3072" height="4096" alt="IMG_20261008_111904" src="https://github.com/user-attachments/assets/6c0d7e61-afcf-480e-8603-8ea05a7cc08e" />
-
-<img width="3072" height="4096" alt="IMG_20261008_112126" src="https://github.com/user-attachments/assets/599e73ac-fa3a-4410-8362-4aae29f0e802" />
+Figure 12: Trigger compression spring
 <img width="3072" height="4096" alt="IMG_20261008_112111" src="https://github.com/user-attachments/assets/0dd952bf-dbc0-44e1-85e1-63151247de06" />
+Figure 14: Trigger tension spring
 
