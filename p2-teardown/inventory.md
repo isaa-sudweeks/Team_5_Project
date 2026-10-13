@@ -10,10 +10,9 @@
 | Plunger | Firing | 2.5 inches | https://github.com/user-attachments/assets/337f667c-029b-4d0d-bbfe-446ead9aa521 |
 | Plunger Case | Firing | 2.75 inches | https://github.com/user-attachments/assets/337f667c-029b-4d0d-bbfe-446ead9aa521 |
 | Main Spring | Firing | 2.375 inches | https://github.com/user-attachments/assets/71def94d-27ce-472a-b456-e0faef7b9b33 |
-| Holding Spring | Firing | 0.5 inches | --- |
-| Holding Mechanism | Firing | 2.5 inches | --- |
-| Holding Slider | Firing | 1 inches | --- |
-| Slider Spring | Firing | 1.25 inches | --- |
+| Holding Mechanism | Firing | 2.5 inches | https://github.com/user-attachments/assets/9356a8f6-a2eb-4373-90f8-4c221fd3308c |
+| Holding Slider | Firing | 1 inches | https://github.com/user-attachments/assets/3d742e1f-d1c9-4278-b1c2-bec334cff56e |
+| Slider Spring | Firing | 1.25 inches | https://github.com/user-attachments/assets/08707431-3f40-47de-b5d4-e0c69acb4f0d |
 | Trigger | Trigger | 2.125 inches | https://github.com/user-attachments/assets/75a7f40c-532d-481b-9f83-bb90a18a8fb8 |
 | Trigger Tension Spring | Trigger | 0.27 inches | https://github.com/user-attachments/assets/0dd952bf-dbc0-44e1-85e1-63151247de06 |
 | Trigger Compression Spring | Trigger | 0.625 inches | https://github.com/user-attachments/assets/599e73ac-fa3a-4410-8362-4aae29f0e802 |
