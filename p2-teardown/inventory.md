@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | Outer Case Back | Case | 11.5 inches | https://github.com/user-attachments/assets/3033887c-09fe-4bad-a4ec-759416dac280 |
 | Outer Case Front | Case | 11.5 inches | https://github.com/user-attachments/assets/3d742e1f-d1c9-4278-b1c2-bec334cff56e |
-| Slider Front | Case | 5 inches | --- |
+| Slider Front | Case | 5 inches | https://github.com/user-attachments/assets/08707431-3f40-47de-b5d4-e0c69acb4f0d |
 | Slider Back | Case | 5 inches | --- |
 | Barrel Tip | Case | 1.25 inches | --- |
 | Outer Case Fastener | Case | 0.5 inches | --- |
