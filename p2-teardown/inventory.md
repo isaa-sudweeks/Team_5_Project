@@ -5,7 +5,7 @@
 | Slider Front | Case | 5 inches | [https://github.com/user-attachments/assets/08707431-3f40-47de-b5d4-e0c69acb4f0d](https://github.com/user-attachments/assets/9552a100-dab6-40b0-84af-5af123540bfd) |
 | Slider Back | Case | 5 inches | [https://github.com/user-attachments/assets/ada75b55-0477-4284-a1eb-d1e1b5c8d508](https://github.com/user-attachments/assets/43fc8ec7-3950-4d56-800f-10607e659540) |
 | Barrel Tip | Case | 1.25 inches | [https://github.com/user-attachments/assets/9356a8f6-a2eb-4373-90f8-4c221fd3308c](https://github.com/user-attachments/assets/76cc2cde-01c6-4f6b-a823-180d48cb678c) |
-| Outer Case Fastener | Case | 0.5 inches | https://github.com/user-attachments/assets/71def94d-27ce-472a-b456-e0faef7b9b33 |
+| Outer Case Fastener | Case | 0.5 inches | [https://github.com/user-attachments/assets/71def94d-27ce-472a-b456-e0faef7b9b33](https://github.com/user-attachments/assets/8cd7721c-e5cc-41a5-90a2-1c7a65e2c435) |
 | Barrel | Firing | 3.75 inches | https://github.com/user-attachments/assets/ada75b55-0477-4284-a1eb-d1e1b5c8d508 |
 | Plunger | Firing | 2.5 inches | https://github.com/user-attachments/assets/337f667c-029b-4d0d-bbfe-446ead9aa521 |
 | Plunger Case | Firing | 2.75 inches | https://github.com/user-attachments/assets/337f667c-029b-4d0d-bbfe-446ead9aa521 |
