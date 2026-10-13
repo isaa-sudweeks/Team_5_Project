@@ -1,7 +1,7 @@
 | Element | Subsystem | Measurement | Image |
 | --- | --- | --- | --- |
 | Outer Case Back | Case | 11.5 inches | https://github.com/user-attachments/assets/3033887c-09fe-4bad-a4ec-759416dac280 |
-| Outer Case Front | Case | 11.5 inches | --- |
+| Outer Case Front | Case | 11.5 inches | https://github.com/user-attachments/assets/3d742e1f-d1c9-4278-b1c2-bec334cff56e |
 | Slider Front | Case | 5 inches | --- |
 | Slider Back | Case | 5 inches | --- |
 | Barrel Tip | Case | 1.25 inches | --- |
