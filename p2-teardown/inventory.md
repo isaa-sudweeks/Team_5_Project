@@ -9,7 +9,7 @@
 | Barrel | Firing | 3.75 inches | https://github.com/user-attachments/assets/ada75b55-0477-4284-a1eb-d1e1b5c8d508 |
 | Plunger | Firing | 2.5 inches | https://github.com/user-attachments/assets/337f667c-029b-4d0d-bbfe-446ead9aa521 |
 | Plunger Case | Firing | 2.75 inches | https://github.com/user-attachments/assets/337f667c-029b-4d0d-bbfe-446ead9aa521 |
-| Main Spring | Firing | 2.375 inches | https://github.com/user-attachments/assets/8cd7721c-e5cc-41a5-90a2-1c7a65e2c435 |
+| Main Spring | Firing | 2.375 inches | https://github.com/user-attachments/assets/71def94d-27ce-472a-b456-e0faef7b9b33 |
 | Holding Spring | Firing | 0.5 inches | --- |
 | Holding Mechanism | Firing | 2.5 inches | --- |
 | Holding Slider | Firing | 1 inches | --- |
